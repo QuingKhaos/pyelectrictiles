@@ -6,6 +6,8 @@ Adds electric tile variants for all Pyanodons tiles. Each electric tile variant 
 
 Also fixes the original electric tiles to have the same movement speed/vehicle properties as the corresponding tiles modified by Pynanodons and modifies the electric tiles tech to use the same science packs as concrete.
 
+Use the [Tile Upgrade Planner Redux](https://mods.factorio.com/mod/tile-upgrade-planner-redux) to quickly update all existing tiles to their electric variants.
+
 ## Legal Notice
 
 Pyanodons Electric Tiles is not officially endorsed or recognised by Pyanodons INC.
