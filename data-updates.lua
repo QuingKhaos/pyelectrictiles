@@ -1,3 +1,6 @@
+-- Electric Tiles
+require("prototypes.tiles.electric-tiles")
+
 -- pY Industry
 require("prototypes.tiles.py-asphalt")
 require("prototypes.tiles.py-limestone")

@@ -1,5 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - Change original electric tile properties to match their corresponding base tile as modified by Pyanodons.
   Features:
     - Add electric tile variants to all Pyanodons tiles and unlock at the same time as the base tile.
