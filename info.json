@@ -9,6 +9,7 @@
     "dependencies": [
         "base >= 2.0.60",
         "electric-tiles >= 1.2.8",
+        "? tile-upgrade-planner-redux >= 2.2.0",
 
         "? pyalienlife >= 3.0.0",
         "? pyalternativeenergy >= 3.0.0",
