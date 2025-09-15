@@ -1,6 +1,6 @@
 local tiles = {}
 
-if mods["pyindustry"] and mods["pyalternativeenergy"]then
+if mods["pyindustry"] and mods["pyalternativeenergy"] then
   table.insert(tiles, {
     item = data.raw.item["py-quartz"],
     tile = data.raw.tile["lab-white"],

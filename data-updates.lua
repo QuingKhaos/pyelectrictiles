@@ -8,3 +8,4 @@ require("prototypes.tiles.py-aluminium")
 
 -- pY Industry & pY Alternative Energy
 require("prototypes.tiles.py-quartz")
+require("prototypes.tiles.multicolored-concrete")
