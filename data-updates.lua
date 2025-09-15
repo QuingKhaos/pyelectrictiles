@@ -12,3 +12,4 @@ require("prototypes.tiles.multicolored-concrete")
 
 -- pY Industry & pY Coal Processing
 require("prototypes.tiles.py-iron-oxide")
+require("prototypes.tiles.py-nexelit")
