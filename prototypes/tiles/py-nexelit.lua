@@ -5,7 +5,7 @@ if mods["pyindustry"] and mods["pycoalprocessing"] then
     item = data.raw.item["py-nexelit"],
     tile = data.raw.tile["py-nexelit"],
     others = {use_default_recipe = true},
-    technology = {"py-asphalt-mk02", "nexelit-mk02"}
+    technology = {"py-asphalt-mk02"}
   })
 end
 
