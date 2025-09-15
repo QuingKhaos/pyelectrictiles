@@ -11,3 +11,6 @@ for _, tile in pairs {
   data.raw.tile[ElectricTilesDataInterface.getTilePrefix() .. tile].vehicle_friction_modifier = data.raw.tile[tile].vehicle_friction_modifier
   data.raw.tile[ElectricTilesDataInterface.getTilePrefix() .. tile].decorative_removal_probability = data.raw.tile[tile].decorative_removal_probability
 end
+
+-- Make electric tiles use the same science packs as concrete
+data.raw.technology["electric-tiles-tech"].unit = data.raw.technology["concrete"].unit

@@ -4,7 +4,7 @@
 
 Adds electric tile variants for all Pyanodons tiles. Each electric tile variant is unlocked at the same tech as the base tile.
 
-Also fixes the original electric tiles to have the same movement speed/vehicle properties as the corresponding tiles modified by Pynanodons.
+Also fixes the original electric tiles to have the same movement speed/vehicle properties as the corresponding tiles modified by Pynanodons and modifies the electric tiles tech to use the same science packs as concrete.
 
 ## Legal Notice
 
