@@ -1,0 +1,12 @@
+{
+    "name": "pyelectrictiles",
+    "title": "Pyanodons Electric Tiles",
+    "description": "Electric tiles support for Pyanodons tiles.",
+    "author": "QuingKhaos",
+    "homepage": "",
+    "version": "1.0.0",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.60"
+    ]
+}
