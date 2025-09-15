@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-15
   Changes:
     - Make electric tiles use the same science packs as concrete.
     - Change original electric tile properties to match their corresponding base tile as modified by Pyanodons.
