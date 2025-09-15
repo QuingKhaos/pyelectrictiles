@@ -2,7 +2,7 @@
 
 # Pyanodons Electric Tiles
 
-Adds electric tile variants for all Pyanodons tiles.
+Adds electric tile variants for all Pyanodons tiles. Each electric tile variant is unlocked at the same tech as the base tile.
 
 ## Legal Notice
 
